@@ -66,9 +66,11 @@
 ![](images/stock-ticks-1.PNG)
 
 - The second file for stock-ticks-0 shows 583 records.
+
 ![](images/stock-ticks-2.PNG)
 
 - The third file for stock-ticks-2 shows 498 records.
+
 ![](images/stock-ticks-3.PNG)
 
 - These three log files total up to 1,907 records--which is the exact amount of records contained in our CSV file.
