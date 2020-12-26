@@ -62,6 +62,7 @@
 ![](images/tmp_3.PNG)
 
 - The first log file for stock-ticks-1 shows 825 records in this partition, but is really 826 since the offset starts with 0.
+
 ![](images/stock-ticks-1.PNG)
 
 - The second file for stock-ticks-0 shows 583 records.
