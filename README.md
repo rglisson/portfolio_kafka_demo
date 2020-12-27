@@ -2,7 +2,7 @@
 
 # Introduction & Goals
 - The project was to create a Kafka topic with three partitions, using two consumer groups to read the data. The producer sends a CSV file with 1,907 records.
-- The goal was to investigate how many messages each consumer received and how many messages each partition stored. Each paritition was stored on a seperate broker, with a seperate log file.
+- The goal was to investigate how many messages each consumer received and how many messages each partition stored. Each partition was stored on a seperate broker, with a seperate log file.
 
 ![](images/kafka_img_1.PNG)
 
